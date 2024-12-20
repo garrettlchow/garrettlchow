@@ -10,5 +10,5 @@ I'm a software engineer passionate about solving problems and building impactful
 - 😄 Pronouns: he/him
 ## 🎉 Fun Facts
 - 🧗 I love rock climbing and exploring the outdoors
-- 📚 Currently reading: *Your Favorite Book*
+- 📚 Currently reading: ...
 - 🏃 Marathon enthusiast and casual runner
