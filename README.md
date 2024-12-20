@@ -1,6 +1,5 @@
 # Hi there 👋, I'm Garrett!
 
-<!--
 I'm a software engineer passionate about solving problems and building impactful applications. My journey started in biotech as a clinical lab scientist, and now I create software to empower users and drive innovation.
 
 ## 🚧 Projects
@@ -13,4 +12,3 @@ I'm a software engineer passionate about solving problems and building impactful
 - 🧗 I love rock climbing and exploring the outdoors
 - 📚 Currently reading: *Your Favorite Book*
 - 🏃 Marathon enthusiast and casual runner
--->
