@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋, I'm Garrett!
 
 <!--
-**garrettlchow/garrettlchow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer passionate about solving problems and building impactful applications. My journey started in biotech as a clinical lab scientist, and now I create software to empower users and drive innovation.
 
-Here are some ideas to get you started:
+## 🚧 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 📫 Get in Touch
+- LinkedIn: [linkedin.com/in/garrettchow](https://linkedin.com/in/garrettchow)
+- Email: [garrettlchow@gmail.com](mailto:garrettlchow@gmail.com)
+- 😄 Pronouns: he/him
+## 🎉 Fun Facts
+- 🧗 I love rock climbing and exploring the outdoors
+- 📚 Currently reading: *Your Favorite Book*
+- 🏃 Marathon enthusiast and casual runner
 -->
