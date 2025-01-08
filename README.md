@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Garrett!
+# Hi there 👋 I'm Garrett!
 
 I’m a software engineer passionate about solving problems and building impactful applications. My journey started in biotech as a clinical lab scientist.
 
@@ -12,5 +12,6 @@ I’m a software engineer passionate about solving problems and building impactf
   
 ## 🎉 Fun Facts
 - 🧗 I love rock climbing and exploring the outdoors
-- 📚 Currently reading: ...
+- 📚 Currently reading: ACOTAR
 - 🏃 Marathon enthusiast and casual runner
+- 🧩 Big fan of word and logic games like Connections and Strands—which one do you play first?
