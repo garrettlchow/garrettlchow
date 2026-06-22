@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Garrett!
 
-I’m a software engineer passionate about solving problems and building impactful applications. My journey started in biotech as a clinical lab scientist.
+I’m a software engineer passionate about solving problems and building impactful applications.
 
 ## 🚧 Projects
 - ⚛️ Reactime: Developer tool for time travel debugging and performance monitoring in React applications. GitHub Repository: [https://github.com/open-source-labs/Reactime](https://github.com/open-source-labs/Reactime)
@@ -11,6 +11,5 @@ I’m a software engineer passionate about solving problems and building impactf
 
 ## 🎉 Fun Facts
 - 🧗 I love rock climbing and exploring the outdoors
-- 📚 Currently reading: ACOTAR
 - 🏃 Marathon enthusiast and casual runner
 - 🧩 Big fan of word and logic games like Connections and Strands—which one do you play first?
