@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Garrett!
 
-I’m a software engineer passionate about solving problems and building impactful applications. Currently, a SWE @ Capital One building risk management systems | Java, TypeScript, Python, AWS | LLM agents & agentic workflows
+SWE @ Capital One building risk management systems | Java, TypeScript, Python, AWS | LLM agents & agentic workflows
 
 ## 🚧 Projects
 - ⚛️ Reactime: Developer tool for time travel debugging and performance monitoring in React applications. GitHub Repository: [https://github.com/open-source-labs/Reactime](https://github.com/open-source-labs/Reactime)
